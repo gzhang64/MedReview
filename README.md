@@ -42,8 +42,8 @@ The **MedReview** dataset, used in this study, is a benchmark dataset designed f
 
 | Filename                  | Description                                                     |
 |---------------------------|-----------------------------------------------------------------|
-| `train_before_cutoff.json` | Training data: systematic reviews and summaries for model training |
-| `val_before_cutoff.json`       | Validation data: used during training to tune hyperparameters    |
+| `train.json` | Training data: systematic reviews and summaries for model training |
+| `val.json`       | Validation data: used during training to tune hyperparameters    |
 | `test_before_cutoff.json`       | Test data: used to evaluate the model's performance (before 09/22)    |
 | `test_after_cutoff.json`      | Test data: used to evaluate the model's performance (after 09/22)        |
 
