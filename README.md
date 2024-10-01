@@ -34,7 +34,7 @@ The **MedReview** dataset, used in this study, is a benchmark dataset designed f
 - **Data Type**: Text
 - **Number of Pairs**: 8161 pairs of systematic reviews and summaries
 - **Annotations**: Each systematic review is paired with an expert-written summary
-- **File Formats**: CSV, JSON (or other relevant formats)
+- **File Formats**: JSON
 - **Source**: Curated from publicly available systematic review repositories
 - **Use Case**: The dataset is used for training, validating, and testing large language models on summarizing medical evidence. Each pair provides a systematic review with its condensed version, serving as the ground truth for the models.
 
@@ -42,10 +42,10 @@ The **MedReview** dataset, used in this study, is a benchmark dataset designed f
 
 | Filename                  | Description                                                     |
 |---------------------------|-----------------------------------------------------------------|
-| `train_before_cutoff.csv` | Training data: systematic reviews and summaries for model training |
-| `val_before_cutoff.csv`       | Validation data: used during training to tune hyperparameters    |
-| `test_before_cutoff.csv`       | Test data: used to evaluate the model's performance (before 09/22)    |
-| `test_after_cutoff.csv`      | Test data: used to evaluate the model's performance (after 09/22)        |
+| `train_before_cutoff.json` | Training data: systematic reviews and summaries for model training |
+| `val_before_cutoff.json`       | Validation data: used during training to tune hyperparameters    |
+| `test_before_cutoff.json`       | Test data: used to evaluate the model's performance (before 09/22)    |
+| `test_after_cutoff.json`      | Test data: used to evaluate the model's performance (after 09/22)        |
 
 
 ### Structure
