@@ -65,12 +65,32 @@ If you use the dataset, models, or code from this repository in your research, p
 You can also use the following BibTeX entry for citation:
 
 ```bibtex
-@article{zhang2024closing,
-  title={Closing the gap between open source and commercial large language models for medical evidence summarization},
-  author={Gongbo Zhang, Qiao Jin, Yiliang Zhou, Song Wang, Betina Idnay, Yiming Luo, Elizabeth Park, Jordan G. Nestor, Matthew E. Spotnitz, Ali Soroush, Thomas R. Campion Jr., Zhiyong Lu, Chunhua Weng* & Yifan Peng*},
-  journal={npj Digital Medicine},
-  year={2024},
-  doi={[DOI_LINK](https://doi.org/10.1038/s41746-024-01239-w)}
+@article{DBLP:journals/npjdm/ZhangJZWILPNSSCLWP24,
+  author       = {Gongbo Zhang and
+                  Qiao Jin and
+                  Yiliang Zhou and
+                  Song Wang and
+                  Betina Idnay and
+                  Yiming Luo and
+                  Elizabeth Park and
+                  Jordan G. Nestor and
+                  Matthew E. Spotnitz and
+                  Ali Soroush and
+                  Thomas Campion and
+                  Zhiyong Lu and
+                  Chunhua Weng and
+                  Yifan Peng},
+  title        = {Closing the gap between open source and commercial large language
+                  models for medical evidence summarization},
+  journal      = {npj Digit. Medicine},
+  volume       = {7},
+  number       = {1},
+  year         = {2024},
+  url          = {https://doi.org/10.1038/s41746-024-01239-w},
+  doi          = {10.1038/S41746-024-01239-W},
+  timestamp    = {Fri, 20 Sep 2024 14:02:35 +0200},
+  biburl       = {https://dblp.org/rec/journals/npjdm/ZhangJZWILPNSSCLWP24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
