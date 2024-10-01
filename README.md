@@ -3,7 +3,7 @@
 This repository contains the datasets, scripts, and models associated with the paper:
 
 **Title**: [Closing the gap between open source and commercial large language models for medical evidence summarization](https://www.nature.com/articles/s41746-024-01239-w)  
-**Authors**: [Gongbo Zhang, Qiao Jin, Yiliang Zhou, Song Wang, Betina Idnay, Yiming Luo, Elizabeth Park, Jordan G. Nestor, Matthew E. Spotnitz, Ali Soroush, Thomas R. Campion Jr., Zhiyong Lu, Chunhua Weng* & Yifan Peng*]  
+**Authors**: Gongbo Zhang, Qiao Jin, Yiliang Zhou, Song Wang, Betina Idnay, Yiming Luo, Elizabeth Park, Jordan G. Nestor, Matthew E. Spotnitz, Ali Soroush, Thomas R. Campion Jr., Zhiyong Lu, Chunhua Weng* & Yifan Peng* 
 **Published in**: *npj Digital Medicine*  
 **Year**: 2024  
 **DOI**: [(https://doi.org/10.1038/s41746-024-01239-w)]([DOI_LINK](https://doi.org/10.1038/s41746-024-01239-w))
